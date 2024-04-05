@@ -7,7 +7,7 @@ const Navbar = () => {
   const navigation = [
     { title: "Home", href: "/" },
     { title: "Features", href: "/features" },
-    { title: "About me", href: "/about" },
+    { title: "About us", href: "/about" },
     { title: "Studio", href: "/studio" },
   ];
   return (
